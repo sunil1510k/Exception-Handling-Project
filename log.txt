@@ -1,0 +1,5 @@
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "<ipython-input-57-cd6110f530d3>", line 12, in <module>
+    print("Division Action : ", num / den)
+ZeroDivisionError: division by zero

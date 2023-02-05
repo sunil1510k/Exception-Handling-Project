@@ -1,0 +1,6 @@
+
+Hi All
+we are learning file handling on 29.01.23
+
+ This is the Next Line
+ ........ END
